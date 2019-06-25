@@ -16,6 +16,8 @@ html, body {
 }
 .mypicture {
   display: inline-block;
+  position:absolute;
+  left:200px;
   padding-left: 120px;
   padding-bottom: 30px;
   padding-top: 90px;
