@@ -12,12 +12,6 @@ html, body {
   color: #fff;
   position: relative;
 }
-
-.jumbotron h1 {
-  font-size: 70px;
-  margin-bottom: 0;
-}
-
 .jumbotron p {
   font-family: serif;
   font-size: 30px;
