@@ -14,14 +14,7 @@ html, body {
   color: #fff;
   position: relative;
 }
-.mypicture {
-  display: inline-block;
-  position:absolute;
-  left:200px;
-  padding-left: 120px;
-  padding-bottom: 30px;
-  padding-top: 90px;
-}
+
 .jumbotron p {
   font-family: serif;
   font-size: 40px;
